@@ -1,0 +1,72 @@
+[
+    {
+        "id": "Question1",
+        "title": "What is the capital of France?",
+        "answers": ["New York", "London", "Paris", "Dublin"],
+        "correctAnswer": "Paris",
+        "score": "2"
+    },
+    {
+        "id": "Question2",
+        "title": "Who is CEO of Tesla?",
+        "answers": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Tony Stark"],
+        "correctAnswer": "Elon Musk",
+        "score": "2"
+    },
+    {
+        "id": "Question3",
+        "title": "The iPhone was created by which company?",
+        "answers": ["Apple", "Intel", "Amazon", "Microsoft"],
+        "correctAnswer": "Apple",
+        "score": "2"
+    },
+    {
+        "id": "Question4",
+        "title": "The iPhone was created by which company?",
+        "answers": ["Apple", "Intel", "Amazon", "Microsoft"],
+        "correctAnswer": "Apple",
+        "score": "2"
+    },
+    {
+        "id": "Question5",
+        "title": "How many Harry Potter books are there?",
+        "answers": ["1", "4", "6", "7"],
+        "correctAnswer": "7",
+        "score": "2"
+    },
+    {
+        "id": "Question6",
+        "title": "Question 6",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": "2",
+        "score": "2"
+    },
+    {
+        "id": "Question7",
+        "title": "Question 7",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": "2",
+        "score": "2"
+    },
+    {
+        "id": "Question8",
+        "title": "Question 8",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": "2",
+        "score": "2"
+    },
+    {
+        "id": "Question9",
+        "title": "Question 9",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": "2",
+        "score": "2"
+    },
+    {
+        "id": "Question10",
+        "title": "Question 10",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": "2",
+        "score": "2"
+    }
+]
